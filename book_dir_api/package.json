@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Book Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Mapoma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mapoma2021/Books-Directory/tree/master"
+  },
+  "keywords": [
+    "NodeJS",
+    "RESTAPI–",
+    "Book",
+    "Directory"
+  ],
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "nodemon": "^3.0.1"
+  }
+}
