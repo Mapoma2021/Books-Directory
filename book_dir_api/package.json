@@ -1,7 +1,7 @@
 {
-  "name": "book_dir_api",
+  "name": "book-directory",
   "version": "1.0.0",
-  "description": "Book directory",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.20.2",
@@ -11,21 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mapoma2021/Books-Directory.git"
-  },
-  "keywords": [
-    "Book",
-    "API"
-  ],
   "author": "Martin Mapoma",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mapoma2021/Books-Directory/issues"
-  },
-  "homepage": "https://github.com/Mapoma2021/Books-Directory#readme"
+  "license": "ISC"
 }
